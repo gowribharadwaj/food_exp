@@ -1,1 +1,842 @@
-[]
+[
+  {
+    "search_term": "amul milk",
+    "product_name": "Amul Masti Spiced Buttermilk 200ml",
+    "brand": "Amul",
+    "off_category": "Beverages",
+    "specific_category": "buttermilks"
+  },
+  {
+    "search_term": "amul milk",
+    "product_name": "Amul Taaza Milky Milk",
+    "brand": "Amul, Amul taaza",
+    "off_category": "Whole pasteurised milks",
+    "specific_category": "whole pasteurised milks"
+  },
+  {
+    "search_term": "amul milk",
+    "product_name": "Chocominis",
+    "brand": "Amul",
+    "off_category": "Chocolate Sculptures",
+    "specific_category": "milk chocolate molds"
+  },
+  {
+    "search_term": "amul milk",
+    "product_name": "malai paneer fresh",
+    "brand": "Amul",
+    "off_category": "Paneer",
+    "specific_category": "paneer"
+  },
+  {
+    "search_term": "amul milk",
+    "product_name": "Amul cheese",
+    "brand": "Amul",
+    "off_category": "Cheeses",
+    "specific_category": "cheeses"
+  },
+  {
+    "search_term": "amul butter",
+    "product_name": "Amul Pasteurized Butter",
+    "brand": "Amul",
+    "off_category": "Butters",
+    "specific_category": "butters"
+  },
+  {
+    "search_term": "amul butter",
+    "product_name": "Amul Butter",
+    "brand": "AMUL",
+    "off_category": "Butters",
+    "specific_category": "butters"
+  },
+  {
+    "search_term": "amul butter",
+    "product_name": "Amul pasteurised butter",
+    "brand": "Amul",
+    "off_category": "Cheeses",
+    "specific_category": "butters"
+  },
+  {
+    "search_term": "amul paneer",
+    "product_name": "malai paneer fresh",
+    "brand": "Amul",
+    "off_category": "Paneer",
+    "specific_category": "paneer"
+  },
+  {
+    "search_term": "amul paneer",
+    "product_name": "Malai Paneer",
+    "brand": "Amul",
+    "off_category": "Paneer",
+    "specific_category": "paneer"
+  },
+  {
+    "search_term": "amul paneer",
+    "product_name": "Amul Malai Paneer",
+    "brand": "Amul",
+    "off_category": "Paneer",
+    "specific_category": "cottage cheeses"
+  },
+  {
+    "search_term": "amul ghee",
+    "product_name": "Amul Ghee 1ltr",
+    "brand": "Amul",
+    "off_category": "Butters",
+    "specific_category": "ghee"
+  },
+  {
+    "search_term": "amul ghee",
+    "product_name": "Amul pure ghee 1 ltr",
+    "brand": "Amul",
+    "off_category": "Butters",
+    "specific_category": "ghee"
+  },
+  {
+    "search_term": "amul ghee",
+    "product_name": "AMUL PURE GHEE",
+    "brand": "AMUL",
+    "off_category": "Butters",
+    "specific_category": "Oil"
+  },
+  {
+    "search_term": "amul ghee",
+    "product_name": "Amul Cow Ghee",
+    "brand": "Amul",
+    "off_category": "ghee",
+    "specific_category": "ghee"
+  },
+  {
+    "search_term": "amul cream",
+    "product_name": "Amul Fresh Cream",
+    "brand": "Amul",
+    "off_category": "Creams",
+    "specific_category": "fresh cream cheese with cow s milk"
+  },
+  {
+    "search_term": "amul cream",
+    "product_name": "Amul Gold Milky Milk",
+    "brand": "Amul",
+    "off_category": "Milks",
+    "specific_category": "Full cream milk"
+  },
+  {
+    "search_term": "amul cream",
+    "product_name": "King Alphonso Gold Ice Cream",
+    "brand": "Amul",
+    "off_category": "Ice cream in a box",
+    "specific_category": "ice cream in a box"
+  },
+  {
+    "search_term": "amul cream",
+    "product_name": "Vanilla ice cream",
+    "brand": "Amul",
+    "off_category": "Ice cream in a box",
+    "specific_category": "ice cream in a box"
+  },
+  {
+    "search_term": "amul cream",
+    "product_name": "Amul Rajbhog",
+    "brand": "Amul",
+    "off_category": "Ice cream tubs",
+    "specific_category": "ice cream tubs"
+  },
+  {
+    "search_term": "britannia bread",
+    "product_name": "100% Whole Wheat Brown Bread",
+    "brand": "Britannia",
+    "off_category": "Breads",
+    "specific_category": "breads"
+  },
+  {
+    "search_term": "britannia bread",
+    "product_name": "Britannia Toastea Premium Bake Rusk 1kg",
+    "brand": "Britannia",
+    "off_category": "Breads",
+    "specific_category": "breads"
+  },
+  {
+    "search_term": "britannia bread",
+    "product_name": "White bread",
+    "brand": "Britannia",
+    "off_category": "Breads",
+    "specific_category": "breads"
+  },
+  {
+    "search_term": "britannia bread",
+    "product_name": "100% Whole Wheat Bread",
+    "brand": "Britannia",
+    "off_category": "Wheat breads",
+    "specific_category": "wheat breads"
+  },
+  {
+    "search_term": "britannia bread",
+    "product_name": "sandwich white bread",
+    "brand": "Britannia",
+    "off_category": "Breads",
+    "specific_category": "breads"
+  },
+  {
+    "search_term": "britannia cheese",
+    "product_name": "Britannia cheese cube",
+    "brand": "Britannia",
+    "off_category": "Cheeses",
+    "specific_category": "cheeses"
+  },
+  {
+    "search_term": "britannia cheese",
+    "product_name": "Cheese Slices",
+    "brand": "Britannia",
+    "off_category": "Cheeses",
+    "specific_category": "cheeses"
+  },
+  {
+    "search_term": "britannia cheese",
+    "product_name": "The Laughing Cow Cheese Slices",
+    "brand": "Britannia",
+    "off_category": "Cheeses",
+    "specific_category": "cheeses"
+  },
+  {
+    "search_term": "britannia biscuit",
+    "product_name": "bourbon",
+    "brand": "britannia",
+    "off_category": "Biscuits",
+    "specific_category": "biscuits"
+  },
+  {
+    "search_term": "britannia biscuit",
+    "product_name": "Good Day - Cashew Cookies",
+    "brand": "Britannia",
+    "off_category": "Biscuits or cookies variety packs",
+    "specific_category": "biscuits cookies shelf stable"
+  },
+  {
+    "search_term": "britannia biscuit",
+    "product_name": "Marie Gold Biscuit",
+    "brand": "Britannia",
+    "off_category": "Biscuits",
+    "specific_category": "biscuits"
+  },
+  {
+    "search_term": "britannia biscuit",
+    "product_name": "Good Day cashew cookie",
+    "brand": "Britannia",
+    "off_category": "Biscuits",
+    "specific_category": "biscuits"
+  },
+  {
+    "search_term": "britannia biscuit",
+    "product_name": "Jimjam 57g (57)",
+    "brand": "Britannia",
+    "off_category": "Biscuits",
+    "specific_category": "biscuits"
+  },
+  {
+    "search_term": "parle biscuits",
+    "product_name": "parle",
+    "brand": "Parle",
+    "off_category": "Biscuits",
+    "specific_category": "biscuits"
+  },
+  {
+    "search_term": "parle biscuits",
+    "product_name": "Parle G biscuit",
+    "brand": "Parle",
+    "off_category": "Biscuits",
+    "specific_category": "biscuits"
+  },
+  {
+    "search_term": "parle biscuits",
+    "product_name": "Happy happy - Parl",
+    "brand": "Parle",
+    "off_category": "Biscuits",
+    "specific_category": "Happy happy biscuit"
+  },
+  {
+    "search_term": "parle biscuits",
+    "product_name": "Krackjack",
+    "brand": "Parle",
+    "off_category": "Biscuits",
+    "specific_category": "biscuits"
+  },
+  {
+    "search_term": "parle biscuits",
+    "product_name": "MONACO",
+    "brand": "Parle",
+    "off_category": "Appetizers",
+    "specific_category": "Monaco biscuit"
+  },
+  {
+    "search_term": "maggi ketchup",
+    "product_name": "Sauce Tikka Massala",
+    "brand": "Maggi, Magic asia",
+    "off_category": "Shelf-stable other sauces",
+    "specific_category": "tomato ketchup substitutes"
+  },
+  {
+    "search_term": "maggi ketchup",
+    "product_name": "MAGGI RICH TOMATO KETCHUP",
+    "brand": "Maggi",
+    "off_category": "Ketchup",
+    "specific_category": "ketchup"
+  },
+  {
+    "search_term": "maggi ketchup",
+    "product_name": "MAGGI® sauce aigre douce pour poulet 355g",
+    "brand": "Maggi, Magic asia",
+    "off_category": "Cooking Sauces",
+    "specific_category": "tomato ketchup substitutes"
+  },
+  {
+    "search_term": "maggi ketchup",
+    "product_name": "Hot And Sweet Ketchup",
+    "brand": "Maggi",
+    "off_category": "Ketchup",
+    "specific_category": "ketchup"
+  },
+  {
+    "search_term": "maggi ketchup",
+    "product_name": "Rich tomato ketchup",
+    "brand": "Maggi",
+    "off_category": "Ketchup",
+    "specific_category": "ketchup"
+  },
+  {
+    "search_term": "tata salt",
+    "product_name": "Tata Salt",
+    "brand": "Tata",
+    "off_category": "Table salts",
+    "specific_category": "Groceries"
+  },
+  {
+    "search_term": "tata salt",
+    "product_name": "Himalayan Rock Salt",
+    "brand": "TATA Salt",
+    "off_category": "Salts",
+    "specific_category": "Rock Salt"
+  },
+  {
+    "search_term": "tata salt",
+    "product_name": "Salt LITE",
+    "brand": "TATA",
+    "off_category": "Iodised salts",
+    "specific_category": "iodised salts"
+  },
+  {
+    "search_term": "tata salt",
+    "product_name": "TATA Salt",
+    "brand": "TaTa",
+    "off_category": "Tata salt",
+    "specific_category": "Tata salt"
+  },
+  {
+    "search_term": "fortune oil",
+    "product_name": "refined sunflower oil",
+    "brand": "fortune",
+    "off_category": "Sunflower oils",
+    "specific_category": "sunflower oils"
+  },
+  {
+    "search_term": "fortune oil",
+    "product_name": "Premium kachi ghani pure mustard oil",
+    "brand": "Fortune",
+    "off_category": "Mustards",
+    "specific_category": "mustard oils"
+  },
+  {
+    "search_term": "fortune oil",
+    "product_name": "Rice Bran Oil",
+    "brand": "Fortune",
+    "off_category": "Rice bran oils",
+    "specific_category": "rice bran oils"
+  },
+  {
+    "search_term": "fortune oil",
+    "product_name": "fortune sun lite sunflower oil 15 litre",
+    "brand": "fortune",
+    "off_category": "Sunflower oils",
+    "specific_category": "sunflower oils"
+  },
+  {
+    "search_term": "everest masala",
+    "product_name": "Chaat Masala",
+    "brand": "Everest",
+    "off_category": "Spices",
+    "specific_category": "Groceries"
+  },
+  {
+    "search_term": "everest masala",
+    "product_name": "Everest sahi biryani Masala",
+    "brand": "EVEREST",
+    "off_category": "ru:Приправа",
+    "specific_category": ""
+  },
+  {
+    "search_term": "everest masala",
+    "product_name": "Pav bhaji masala",
+    "brand": "Everest",
+    "off_category": "Masala",
+    "specific_category": "Masala"
+  },
+  {
+    "search_term": "everest masala",
+    "product_name": "Everest Sambhar Masala",
+    "brand": "Everest",
+    "off_category": "Spices",
+    "specific_category": "Groceries"
+  },
+  {
+    "search_term": "everest masala",
+    "product_name": "EVEREST Chicken Masala",
+    "brand": "Everest",
+    "off_category": "Spices",
+    "specific_category": "spices"
+  },
+  {
+    "search_term": "kissan ketchup",
+    "product_name": "kissan",
+    "brand": "Kissan",
+    "off_category": "Ketchup",
+    "specific_category": "Tomato & Chill Ketchup"
+  },
+  {
+    "search_term": "kissan ketchup",
+    "product_name": "kissan fresh tomato",
+    "brand": "Kissan",
+    "off_category": "Tomato Ketchup",
+    "specific_category": "tomato ketchup"
+  },
+  {
+    "search_term": "kissan ketchup",
+    "product_name": "kissan fresh tomato",
+    "brand": "Kissan, Unilever",
+    "off_category": "Tomato Ketchup",
+    "specific_category": "tomato ketchup"
+  },
+  {
+    "search_term": "kissan ketchup",
+    "product_name": "Fresh Tomato Ketchup",
+    "brand": "Kissan",
+    "off_category": "Tomato Ketchup",
+    "specific_category": "tomato ketchup"
+  },
+  {
+    "search_term": "kissan ketchup",
+    "product_name": "kissan fresh Tamato",
+    "brand": "Kissan",
+    "off_category": "Tomato Ketchup",
+    "specific_category": "tomato ketchup"
+  },
+  {
+    "search_term": "tropicana juice",
+    "product_name": "Orangensaft",
+    "brand": "Tropicana",
+    "off_category": "Non-alcoholic beverages",
+    "specific_category": "squeezed orange juices"
+  },
+  {
+    "search_term": "tropicana juice",
+    "product_name": "Tropicana 100% oranges pressées avec pulpe 1 L",
+    "brand": "Tropicana",
+    "off_category": "Non-alcoholic beverages",
+    "specific_category": "Juices"
+  },
+  {
+    "search_term": "tropicana juice",
+    "product_name": "Tropicana 100% oranges pressées avec pulpe format familial 1,5 L",
+    "brand": "Tropicana",
+    "off_category": "Orange juices with pulp",
+    "specific_category": "squeezed orange juices"
+  },
+  {
+    "search_term": "tropicana juice",
+    "product_name": "Tropicana Réveil fruité format familial 1,5 L",
+    "brand": "Tropicana",
+    "off_category": "Squeezed multifruit juices",
+    "specific_category": "squeezed multifruit juices"
+  },
+  {
+    "search_term": "tropicana juice",
+    "product_name": "Tropicana Sanguinello",
+    "brand": "Tropicana",
+    "off_category": "Blood orange juices",
+    "specific_category": "squeezed orange juices"
+  },
+  {
+    "search_term": "dabur honey",
+    "product_name": "Honey",
+    "brand": "Dabur",
+    "off_category": "Honeys",
+    "specific_category": "honeys"
+  },
+  {
+    "search_term": "dabur honey",
+    "product_name": "Honey Squeezy",
+    "brand": "Dabur",
+    "off_category": "Honeys",
+    "specific_category": "Food"
+  },
+  {
+    "search_term": "dabur honey",
+    "product_name": "Dabur Honey",
+    "brand": "Dabur",
+    "off_category": "Honeys",
+    "specific_category": "honeys"
+  },
+  {
+    "search_term": "dabur honey",
+    "product_name": "Honey",
+    "brand": "Dabur",
+    "off_category": "Honeys",
+    "specific_category": "honeys"
+  },
+  {
+    "search_term": "dabur honey",
+    "product_name": "Honey",
+    "brand": "Dabur",
+    "off_category": "Honeys",
+    "specific_category": "honey and royal jelly mixtures"
+  },
+  {
+    "search_term": "dabur juice",
+    "product_name": "Real Fruit Power Mango",
+    "brand": "Dabur",
+    "off_category": "Fruit juices",
+    "specific_category": "fruit juices"
+  },
+  {
+    "search_term": "dabur juice",
+    "product_name": "Real activ 100% mixed fruit juice",
+    "brand": "Dabur, Real",
+    "off_category": "Multifruit juices",
+    "specific_category": "multifruit juices"
+  },
+  {
+    "search_term": "dabur juice",
+    "product_name": "Real active 100% orange juice",
+    "brand": "Dabur, Real",
+    "off_category": "Orange juices",
+    "specific_category": "orange juices"
+  },
+  {
+    "search_term": "dabur juice",
+    "product_name": "Real Fruit Power Orange",
+    "brand": "Dabur Real",
+    "off_category": "Orange juices",
+    "specific_category": "orange juices"
+  },
+  {
+    "search_term": "dabur juice",
+    "product_name": "Real Fruit Power Alphonso Mango Nectar",
+    "brand": "Dabur",
+    "off_category": "Fruit nectars",
+    "specific_category": "fruit juices"
+  },
+  {
+    "search_term": "haldiram namkeen",
+    "product_name": "Aloo bhujia",
+    "brand": "Haldiram's",
+    "off_category": "Snacks",
+    "specific_category": "Namkeen"
+  },
+  {
+    "search_term": "haldiram namkeen",
+    "product_name": "Moong Dal",
+    "brand": "Haldiram's",
+    "off_category": "Salty snacks",
+    "specific_category": "Namkeen"
+  },
+  {
+    "search_term": "haldiram namkeen",
+    "product_name": "All in One Namkeen",
+    "brand": "Haldirams",
+    "off_category": "Appetizers",
+    "specific_category": "appetizers"
+  },
+  {
+    "search_term": "haldiram namkeen",
+    "product_name": "khatta meetha 200g",
+    "brand": "Haldiram's",
+    "off_category": "Snacks",
+    "specific_category": "Namkeen"
+  },
+  {
+    "search_term": "haldiram namkeen",
+    "product_name": "Ratlami Sev",
+    "brand": "Haldiram's",
+    "off_category": "namkeen",
+    "specific_category": "namkeen"
+  },
+  {
+    "search_term": "haldiram bhujia",
+    "product_name": "Aloo bhujia",
+    "brand": "Haldiram's",
+    "off_category": "Snacks",
+    "specific_category": "Namkeen"
+  },
+  {
+    "search_term": "haldiram bhujia",
+    "product_name": "Haldiram's Aloo Bhujia",
+    "brand": "Haldiram's",
+    "off_category": "Sev",
+    "specific_category": "Snakes"
+  },
+  {
+    "search_term": "haldiram bhujia",
+    "product_name": "Aloo Bhujia",
+    "brand": "Haldiram's",
+    "off_category": "Snacks",
+    "specific_category": "potato preparations"
+  },
+  {
+    "search_term": "haldiram bhujia",
+    "product_name": "TASTY NUTS Shing Bhujia",
+    "brand": "Haldiram's",
+    "off_category": "Snacks",
+    "specific_category": "snacks"
+  },
+  {
+    "search_term": "haldiram bhujia",
+    "product_name": "Haldiram's Aloo Bhujia Sev",
+    "brand": "Haldiram's",
+    "off_category": "Salty snacks",
+    "specific_category": "salty snacks"
+  },
+  {
+    "search_term": "mothers recipe pickle",
+    "product_name": "Mixed pickle",
+    "brand": "Mother's Recipe",
+    "off_category": "Canned vegetables",
+    "specific_category": "Pick"
+  },
+  {
+    "search_term": "mothers recipe pickle",
+    "product_name": "Mother's Recipe Mixed pickle",
+    "brand": "Mother's Recipe",
+    "off_category": "Plant-based pickles",
+    "specific_category": "plant based pickles"
+  },
+  {
+    "search_term": "nestle kit kat",
+    "product_name": "KITKAT Ball, Billes au chocolat au Lait, 250g",
+    "brand": "Nestlé, Kit kat ball, Kitkat",
+    "off_category": "Bonbons",
+    "specific_category": "bonbons"
+  },
+  {
+    "search_term": "nestle kit kat",
+    "product_name": "KITKAT 4 Finger Barre au chocolat au Lait, 41,5g en lot de 6",
+    "brand": "Kit Kat, Nestlé, Kitkat",
+    "off_category": "fr:Barre chocolatée biscuitée type KitKat",
+    "specific_category": "chocolate biscuity bars"
+  },
+  {
+    "search_term": "nestle kit kat",
+    "product_name": "kit Kat chocolatina 41.5 hg",
+    "brand": "Nestlé",
+    "off_category": "Chocolate biscuity bars",
+    "specific_category": "chocolate biscuity bars"
+  },
+  {
+    "search_term": "nestle kit kat",
+    "product_name": "Kit Kat x10",
+    "brand": "Kit Kat, Nestlé, Kitkat",
+    "off_category": "fr:Barre chocolatée biscuitée type KitKat",
+    "specific_category": "chocolate biscuity bars"
+  },
+  {
+    "search_term": "nestle kit kat",
+    "product_name": "KITKAT barre chocolatée 41,5g",
+    "brand": "Kit Kat, Nestlé, Kitkat",
+    "off_category": "fr:Barre chocolatée biscuitée type KitKat",
+    "specific_category": "chocolate biscuity bars"
+  },
+  {
+    "search_term": "cadbury dairy milk",
+    "product_name": "dairy milk",
+    "brand": "Cadbury, Dairy Milk",
+    "off_category": "Milk chocolates",
+    "specific_category": "milk chocolates"
+  },
+  {
+    "search_term": "cadbury dairy milk",
+    "product_name": "DAIRY MILK",
+    "brand": "Cadbury",
+    "off_category": "Confectioneries",
+    "specific_category": "milk chocolates"
+  },
+  {
+    "search_term": "cadbury dairy milk",
+    "product_name": "Dairy Milk",
+    "brand": "Cadbury",
+    "off_category": "Chocolate candies",
+    "specific_category": "milk chocolates"
+  },
+  {
+    "search_term": "cadbury dairy milk",
+    "product_name": "Milk Chocolate Biscuits",
+    "brand": "Cadbury Dairy Milk Fingers crossed",
+    "off_category": "Stick biscuits covered with chocolate",
+    "specific_category": "stick biscuits covered with chocolate"
+  },
+  {
+    "search_term": "cadbury dairy milk",
+    "product_name": "Little Bar",
+    "brand": "Cadbury Dairy Milk",
+    "off_category": "Chocolate candies",
+    "specific_category": "milk chocolates"
+  },
+  {
+    "search_term": "cadbury bournvita",
+    "product_name": "Cadbury Bournvita 500g pet",
+    "brand": "",
+    "off_category": "Mis",
+    "specific_category": "Mis"
+  },
+  {
+    "search_term": "cadbury bournvita",
+    "product_name": "Cadbury Bournvita Shakti 75g pp",
+    "brand": "Bourn vita",
+    "off_category": "Chickens",
+    "specific_category": "instant chocolate powders"
+  },
+  {
+    "search_term": "cadbury bournvita",
+    "product_name": "Cadbury Bournvita 200g pet",
+    "brand": "",
+    "off_category": "Cocoa powder for beverages with sugar fortified with vitamins",
+    "specific_category": "cocoa powder for beverages with sugar fortified with vitamins"
+  },
+  {
+    "search_term": "complan",
+    "product_name": "Complan Original",
+    "brand": "Nutricia",
+    "off_category": "Dietary supplements",
+    "specific_category": "dietary supplements"
+  },
+  {
+    "search_term": "complan",
+    "product_name": "Complan",
+    "brand": "Nutricia",
+    "off_category": "Low calorie milkshake meal replacement in powder reconstituted with skimmed milk",
+    "specific_category": "low calorie milkshake meal replacement in powder reconstituted with skimmed milk"
+  },
+  {
+    "search_term": "saffola oil",
+    "product_name": "SAFOLA ACTIVE - MULTI-SOURCE EDIBLE OIL",
+    "brand": "Saffola",
+    "off_category": "Rice bran oils",
+    "specific_category": "soybean oils"
+  },
+  {
+    "search_term": "saffola oil",
+    "product_name": "Tasty+",
+    "brand": "Saffola",
+    "off_category": "Refined cereal oils",
+    "specific_category": "refined cereal oils"
+  },
+  {
+    "search_term": "saffola oil",
+    "product_name": "Saffola Gold",
+    "brand": "Saffola",
+    "off_category": "Sunflower oils",
+    "specific_category": "Ricebran Oil"
+  },
+  {
+    "search_term": "hide and seek biscuit",
+    "product_name": "parle hide & seek 120g",
+    "brand": "PARLE",
+    "off_category": "Chocolate biscuits",
+    "specific_category": "chocolate biscuits"
+  },
+  {
+    "search_term": "hide and seek biscuit",
+    "product_name": "Hide & Seek",
+    "brand": "Parle",
+    "off_category": "Biscuits",
+    "specific_category": "biscuits"
+  },
+  {
+    "search_term": "hide and seek biscuit",
+    "product_name": "Hide & Seek",
+    "brand": "Parle",
+    "off_category": "Chocolate biscuits",
+    "specific_category": "dry biscuits"
+  },
+  {
+    "search_term": "hide and seek biscuit",
+    "product_name": "Hide & Seek Caffé Mocha",
+    "brand": "Parle",
+    "off_category": "Biscuits",
+    "specific_category": "Cookies with Chocolate Chips and Coffee"
+  },
+  {
+    "search_term": "hide and seek biscuit",
+    "product_name": "Hide and seek",
+    "brand": "Parle platina",
+    "off_category": "Chocolate biscuits",
+    "specific_category": "Food"
+  },
+  {
+    "search_term": "bru coffee",
+    "product_name": "Bru Instant Coffee",
+    "brand": "Bru",
+    "off_category": "Coffees",
+    "specific_category": "instant coffees"
+  },
+  {
+    "search_term": "bru coffee",
+    "product_name": "Bru coffee 25g",
+    "brand": "",
+    "off_category": "Coffees",
+    "specific_category": "aromatised instant coffees"
+  },
+  {
+    "search_term": "bru coffee",
+    "product_name": "Bru gold",
+    "brand": "Bru",
+    "off_category": "Instant coffees",
+    "specific_category": "instant coffees"
+  },
+  {
+    "search_term": "bru coffee",
+    "product_name": "coffee",
+    "brand": "BRU",
+    "off_category": "Instant coffees",
+    "specific_category": "instant coffees"
+  },
+  {
+    "search_term": "bru coffee",
+    "product_name": "Bru Instant Coffee",
+    "brand": "Bru, Hindustan Unilever Limited",
+    "off_category": "Coffees",
+    "specific_category": "instant mix of chicory and coffee powder"
+  },
+  {
+    "search_term": "nescafe coffee",
+    "product_name": "Cappuccino soluble",
+    "brand": "Cappuccino, Nescafe",
+    "off_category": "Coffees",
+    "specific_category": "instant coffees"
+  },
+  {
+    "search_term": "nescafe coffee",
+    "product_name": "NESCAFÉ NES, Café Soluble, Boîte de 25 Sticks (2g chacun)",
+    "brand": "Nestlé, Nes, Nescafe",
+    "off_category": "Coffee capsules",
+    "specific_category": "freeze dried instant coffees"
+  },
+  {
+    "search_term": "nescafe coffee",
+    "product_name": "Cafe",
+    "brand": "Nescafé",
+    "off_category": "Beverages",
+    "specific_category": "freeze dried instant coffees"
+  },
+  {
+    "search_term": "nescafe coffee",
+    "product_name": "NESCAFÉ NES, Café Soluble,",
+    "brand": "Nes, Nescafé",
+    "off_category": "Beverages",
+    "specific_category": "instant coffee without sugar"
+  }
+]
