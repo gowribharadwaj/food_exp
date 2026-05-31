@@ -1,24 +1,25 @@
 import requests
 
-OLLAMA_URL = "http://localhost:11434/api/generate"
+OLLAMA_URL = "http://127.0.0.1:11434/api/generate"
 MODEL = "llama3.1:8b"
 
 
 def ask_ollama(prompt: str) -> str:
-    """Send a prompt to local Ollama and return the response text."""
     try:
+        print(f"Calling Ollama at {OLLAMA_URL}")
         response = requests.post(OLLAMA_URL, json={
             "model": MODEL,
             "prompt": prompt,
             "stream": False
-        }, timeout=60)
-
+        }, timeout=120)
+        print(f"Ollama status: {response.status_code}")
+        print(f"Ollama response: {response.text[:200]}")
         if response.status_code == 200:
             return response.json().get("response", "").strip()
         else:
             return ""
     except Exception as e:
-        print(f"Ollama error: {e}")
+        print(f"Ollama error: {type(e).__name__}: {e}")
         return ""
 
 

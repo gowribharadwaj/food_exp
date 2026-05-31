@@ -3,14 +3,16 @@ import {
   View, Text, TextInput, StyleSheet,
   TouchableOpacity, ScrollView, Alert, ActivityIndicator
 } from 'react-native';
+import { useRouter } from 'expo-router';
 import { lookupProduct, addPantryItem } from '../services/api';
 
-export default function AddScreen({ navigation }) {
+export default function AddScreen() {
   const [name, setName] = useState('');
   const [storageType, setStorageType] = useState('fridge');
   const [quantity, setQuantity] = useState('');
   const [loading, setLoading] = useState(false);
   const [lookupResult, setLookupResult] = useState(null);
+  const router = useRouter();
 
   const handleLookup = async () => {
     if (!name.trim()) return;
@@ -47,13 +49,11 @@ export default function AddScreen({ navigation }) {
     try {
       await addPantryItem(item);
       Alert.alert('Added!', `${name} added to pantry`);
-      navigation.navigate('Home');
+      router.push('/');
     } catch (e) {
       Alert.alert('Error', 'Could not add item');
     }
   };
-
-  const storageOptions = ['pantry', 'fridge', 'freezer'];
 
   return (
     <ScrollView style={styles.container}>
@@ -70,7 +70,7 @@ export default function AddScreen({ navigation }) {
 
       <Text style={styles.label}>Storage Type</Text>
       <View style={styles.options}>
-        {storageOptions.map(opt => (
+        {['pantry', 'fridge', 'freezer'].map(opt => (
           <TouchableOpacity
             key={opt}
             style={[styles.option, storageType === opt && styles.optionActive]}
@@ -110,7 +110,6 @@ export default function AddScreen({ navigation }) {
           <Text style={styles.resultText}>
             High risk: {lookupResult.high_risk ? 'Yes ⚠️' : 'No'}
           </Text>
-
           <TouchableOpacity style={styles.addBtn} onPress={handleAdd}>
             <Text style={styles.btnText}>Add to Pantry</Text>
           </TouchableOpacity>
@@ -125,12 +124,9 @@ const styles = StyleSheet.create({
   title: { fontSize: 24, fontWeight: '700', marginBottom: 24, color: '#1a1a1a' },
   label: { fontSize: 14, fontWeight: '600', color: '#555', marginBottom: 6, marginTop: 16 },
   input: {
-    backgroundColor: '#fff',
-    borderRadius: 10,
-    padding: 14,
-    fontSize: 16,
-    borderWidth: 1,
-    borderColor: '#e0e0e0',
+    backgroundColor: '#fff', borderRadius: 10,
+    padding: 14, fontSize: 16,
+    borderWidth: 1, borderColor: '#e0e0e0',
   },
   options: { flexDirection: 'row', gap: 10 },
   option: {

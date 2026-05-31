@@ -3,8 +3,8 @@ import {
   View, Text, FlatList, StyleSheet,
   RefreshControl, ActivityIndicator
 } from 'react-native';
-import PantryCard from '../components/PantryCard';
-import { getPantry, deletePantryItem } from '../services/api';
+import PantryCard from '../../components/PantryCard';
+import { getPantry, deletePantryItem } from '../../services/api';
 
 export default function PantryScreen() {
   const [items, setItems] = useState([]);
@@ -53,9 +53,7 @@ export default function PantryScreen() {
             <Text style={[styles.dot, { color: '#4CAF50' }]}>● {green.length} fresh</Text>
           </View>
         }
-        ListEmptyComponent={
-          <Text style={styles.empty}>Pantry is empty.</Text>
-        }
+        ListEmptyComponent={<Text style={styles.empty}>Pantry is empty.</Text>}
       />
     </View>
   );

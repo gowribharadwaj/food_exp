@@ -3,13 +3,15 @@ import {
   View, Text, FlatList, StyleSheet,
   ActivityIndicator, RefreshControl, TouchableOpacity
 } from 'react-native';
-import PantryCard from '../components/PantryCard';
-import { getPantry, deletePantryItem } from '../services/api';
+import { useRouter } from 'expo-router';
+import PantryCard from '../../components/PantryCard';
+import { getPantry, deletePantryItem } from '../../services/api';
 
-export default function HomeScreen({ navigation }) {
+export default function HomeScreen() {
   const [items, setItems] = useState([]);
   const [loading, setLoading] = useState(true);
   const [refreshing, setRefreshing] = useState(false);
+  const router = useRouter();
 
   const fetchPantry = async () => {
     try {
@@ -38,7 +40,7 @@ export default function HomeScreen({ navigation }) {
     <View style={styles.container}>
       <View style={styles.header}>
         <Text style={styles.title}>My Pantry</Text>
-        <TouchableOpacity onPress={() => navigation.navigate('Add')}>
+        <TouchableOpacity onPress={() => router.push('/add')}>
           <Text style={styles.addBtn}>+ Add</Text>
         </TouchableOpacity>
       </View>
@@ -64,7 +66,7 @@ export default function HomeScreen({ navigation }) {
           }} />
         }
         ListEmptyComponent={
-          <Text style={styles.empty}>No items in pantry. Add your groceries!</Text>
+          <Text style={styles.empty}>No items in pantry. Tap + Add to get started.</Text>
         }
       />
     </View>
