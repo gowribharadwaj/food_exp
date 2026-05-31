@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pytesseract
+Pillow
+requests
+supabase
+python-multipart
+pydantic
+python-dotenv
