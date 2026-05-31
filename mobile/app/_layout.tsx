@@ -1,37 +1,10 @@
-import { Tabs } from 'expo-router';
-import { Text } from 'react-native';
+import { Stack } from 'expo-router';
 
-export default function TabLayout() {
+export default function RootLayout() {
   return (
-    <Tabs
-      screenOptions={{
-        headerShown: false,
-        tabBarActiveTintColor: '#4CAF50',
-        tabBarInactiveTintColor: '#888',
-        tabBarStyle: { paddingBottom: 5, height: 60 },
-      }}
-    >
-      <Tabs.Screen
-        name="index"
-        options={{
-          tabBarLabel: 'Home',
-          tabBarIcon: ({ color }) => <Text style={{ color, fontSize: 20 }}>🏠</Text>,
-        }}
-      />
-      <Tabs.Screen
-        name="explore"
-        options={{
-          tabBarLabel: 'Pantry',
-          tabBarIcon: ({ color }) => <Text style={{ color, fontSize: 20 }}>🥫</Text>,
-        }}
-      />
-      <Tabs.Screen
-        name="recipes"
-        options={{
-          tabBarLabel: 'Recipes',
-          tabBarIcon: ({ color }) => <Text style={{ color, fontSize: 20 }}>👨‍🍳</Text>,
-        }}
-      />
-    </Tabs>
+    <Stack screenOptions={{ headerShown: false }}>
+      <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
+      <Stack.Screen name="add" options={{ headerShown: false }} />
+    </Stack>
   );
 }
