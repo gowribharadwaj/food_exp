@@ -1,0 +1,3022 @@
+[
+  {
+    "id": "dairy_001",
+    "name": "paneer",
+    "aliases": ["cottage cheese", "fresh paneer", "amul paneer"],
+    "category": "dairy_paneer",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 5,
+      "freezer_days": 60
+    },
+    "high_risk": true,
+    "source": "manual_indian"
+  },
+  {
+    "id": "dairy_002",
+    "name": "curd",
+    "aliases": ["dahi", "yogurt", "homemade curd"],
+    "category": "dairy_curd",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 3,
+      "freezer_days": null
+    },
+    "high_risk": true,
+    "source": "manual_indian"
+  },
+  {
+    "id": "dairy_003",
+    "name": "idli batter",
+    "aliases": ["dosa batter", "idly batter", "fermented rice batter"],
+    "category": "dairy_fermented",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 4,
+      "freezer_days": null
+    },
+    "high_risk": true,
+    "source": "manual_indian"
+  },
+  {
+    "id": "dairy_004",
+    "name": "amul butter",
+    "aliases": ["salted butter", "white butter", "makhan"],
+    "category": "dairy_butter",
+    "shelf_life": {
+      "pantry_days": 7,
+      "fridge_days": 90,
+      "freezer_days": null
+    },
+    "high_risk": true,
+    "source": "manual_indian"
+  },
+  {
+    "id": "dairy_005",
+    "name": "lassi",
+    "aliases": ["packaged lassi", "sweet lassi", "namkeen lassi"],
+    "category": "dairy_lassi",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 2,
+      "freezer_days": null
+    },
+    "high_risk": true,
+    "source": "manual_indian"
+  },
+  {
+    "id": "produce_001",
+    "name": "curry leaves",
+    "aliases": ["kadi patta", "meetha neem", "curry leaf"],
+    "category": "produce_herb",
+    "shelf_life": {
+      "pantry_days": 2,
+      "fridge_days": 7,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "produce_002",
+    "name": "coriander",
+    "aliases": ["dhania", "cilantro", "fresh coriander", "hara dhania"],
+    "category": "produce_herb",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 5,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "produce_003",
+    "name": "green chillies",
+    "aliases": ["hari mirch", "green chili", "fresh chilli"],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 14,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "grains_001",
+    "name": "atta",
+    "aliases": ["wheat flour", "gehun ka atta", "chapati flour", "roti flour"],
+    "category": "grains_flour",
+    "shelf_life": {
+      "pantry_days": 180,
+      "fridge_days": 365,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "grains_002",
+    "name": "rice",
+    "aliases": ["chawal", "basmati rice", "white rice", "sona masoori"],
+    "category": "grains_rice",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "lentils_001",
+    "name": "toor dal",
+    "aliases": ["arhar dal", "split pigeon peas", "tuvar dal"],
+    "category": "lentils_dal",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "lentils_002",
+    "name": "moong dal",
+    "aliases": ["mung dal", "split green gram", "yellow moong"],
+    "category": "lentils_dal",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "masala_001",
+    "name": "packaged masala sealed",
+    "aliases": ["garam masala", "spice mix", "masala powder", "mtr masala", "everest masala"],
+    "category": "condiment_masala",
+    "shelf_life": {
+      "pantry_days": 730,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "masala_002",
+    "name": "packaged masala opened",
+    "aliases": ["opened spice mix", "open masala", "unsealed masala"],
+    "category": "condiment_masala",
+    "shelf_life": {
+      "pantry_days": 180,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "snacks_001",
+    "name": "papad",
+    "aliases": ["papadum", "pappad", "roasted papad", "lijjat papad"],
+    "category": "snacks_dry",
+    "shelf_life": {
+      "pantry_days": 180,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  }, 
+  {
+    "id": "dairy_006",
+    "name": "shrikhand",
+    "aliases": ["shrikand", "sweetened strained yogurt"],
+    "category": "dairy_curd",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 5,
+      "freezer_days": null
+    },
+    "high_risk": true,
+    "source": "manual_indian"
+  },
+  {
+    "id": "dairy_007",
+    "name": "amul milk",
+    "aliases": ["toned milk", "amul taaza", "amul gold", "full cream milk", "packaged milk"],
+    "category": "dairy_milk",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 7,
+      "freezer_days": null
+    },
+    "high_risk": true,
+    "source": "manual_indian"
+  },
+  {
+    "id": "dairy_008",
+    "name": "ghee",
+    "aliases": ["clarified butter", "desi ghee", "amul ghee", "cow ghee"],
+    "category": "dairy_ghee",
+    "shelf_life": {
+      "pantry_days": 270,
+      "fridge_days": 365,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "dairy_009",
+    "name": "amul cream",
+    "aliases": ["fresh cream", "cooking cream", "whipping cream", "malai"],
+    "category": "dairy_cream",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 7,
+      "freezer_days": 60
+    },
+    "high_risk": true,
+    "source": "manual_indian"
+  },
+  {
+    "id": "dairy_010",
+    "name": "khoya",
+    "aliases": ["mawa", "evaporated milk solids", "khoa"],
+    "category": "dairy_solid",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 7,
+      "freezer_days": 90
+    },
+    "high_risk": true,
+    "source": "manual_indian"
+  },
+  {
+    "id": "dairy_011",
+    "name": "condensed milk",
+    "aliases": ["sweetened condensed milk", "milkmaid", "nestle milkmaid"],
+    "category": "dairy_milk",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": 14,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "dairy_012",
+    "name": "paneer bhurji mix",
+    "aliases": ["crumbled paneer", "scrambled paneer"],
+    "category": "dairy_paneer",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 2,
+      "freezer_days": 30
+    },
+    "high_risk": true,
+    "source": "manual_indian"
+  },
+  {
+    "id": "dairy_013",
+    "name": "cheese slice",
+    "aliases": ["processed cheese", "amul cheese slice", "britannia cheese"],
+    "category": "dairy_cheese",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 30,
+      "freezer_days": null
+    },
+    "high_risk": true,
+    "source": "manual_indian"
+  },
+  {
+    "id": "dairy_014",
+    "name": "buttermilk",
+    "aliases": ["chaas", "mattha", "spiced buttermilk", "masala chaas"],
+    "category": "dairy_curd",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 3,
+      "freezer_days": null
+    },
+    "high_risk": true,
+    "source": "manual_indian"
+  },
+  {
+    "id": "dairy_015",
+    "name": "rabri",
+    "aliases": ["rabdi", "thickened sweetened milk", "basundi"],
+    "category": "dairy_solid",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 3,
+      "freezer_days": null
+    },
+    "high_risk": true,
+    "source": "manual_indian"
+  },
+  {
+    "id": "dairy_016",
+    "name": "dosa batter",
+    "aliases": ["rice batter", "urad dal batter", "ready dosa batter", "id batter"],
+    "category": "dairy_fermented",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 5,
+      "freezer_days": null
+    },
+    "high_risk": true,
+    "source": "manual_indian"
+  },
+  {
+    "id": "dairy_017",
+    "name": "mishti doi",
+    "aliases": ["sweet curd", "bengali sweet yogurt", "meetha dahi"],
+    "category": "dairy_curd",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 4,
+      "freezer_days": null
+    },
+    "high_risk": true,
+    "source": "manual_indian"
+  },
+  {
+    "id": "dairy_018",
+    "name": "milk powder",
+    "aliases": ["dry milk", "amul spray", "skimmed milk powder", "nido"],
+    "category": "dairy_milk",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "dairy_019",
+    "name": "ice cream",
+    "aliases": ["kulfi", "frozen dessert", "amul ice cream"],
+    "category": "dairy_frozen",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": null,
+      "freezer_days": 60
+    },
+    "high_risk": true,
+    "source": "manual_indian"
+  },
+  {
+    "id": "dairy_020",
+    "name": "coconut milk",
+    "aliases": ["nariyal ka doodh", "canned coconut milk", "coconut cream"],
+    "category": "dairy_alternative",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": 7,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "produce_004",
+    "name": "methi leaves",
+    "aliases": ["fenugreek leaves", "fresh methi", "methi saag"],
+    "category": "produce_herb",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 4,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "produce_005",
+    "name": "raw mango",
+    "aliases": ["kachha aam", "green mango", "kairi", "raw aam"],
+    "category": "produce_fruit",
+    "shelf_life": {
+      "pantry_days": 7,
+      "fridge_days": 14,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "produce_006",
+    "name": "drumstick",
+    "aliases": ["moringa", "sahjan", "shevaga", "drumstick vegetable"],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 5,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "produce_007",
+    "name": "bitter gourd",
+    "aliases": ["karela", "bitter melon", "pare"],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 5,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "produce_008",
+    "name": "ridge gourd",
+    "aliases": ["turai", "torai", "luffa", "tori"],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 4,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "produce_009",
+    "name": "bottle gourd",
+    "aliases": ["lauki", "ghia", "dudhi", "calabash"],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": 3,
+      "fridge_days": 7,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "produce_010",
+    "name": "pointed gourd",
+    "aliases": ["parwal", "potol", "green parwal"],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 5,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "produce_011",
+    "name": "raw banana",
+    "aliases": ["kachha kela", "green banana", "plantain", "kacha kela"],
+    "category": "produce_fruit",
+    "shelf_life": {
+      "pantry_days": 5,
+      "fridge_days": 7,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "produce_012",
+    "name": "tinda",
+    "aliases": ["indian round gourd", "apple gourd", "tinde"],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 5,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "produce_013",
+    "name": "raw papaya",
+    "aliases": ["kachha papita", "green papaya", "papaya vegetable"],
+    "category": "produce_fruit",
+    "shelf_life": {
+      "pantry_days": 5,
+      "fridge_days": 10,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "produce_014",
+    "name": "arbi",
+    "aliases": ["taro root", "colocasia", "arvi", "ghuiyan"],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": 7,
+      "fridge_days": 14,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "produce_015",
+    "name": "lotus stem",
+    "aliases": ["kamal kakdi", "nadru", "lotus root", "bhein"],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 7,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "produce_016",
+    "name": "raw jackfruit",
+    "aliases": ["kathal", "kachha kathal", "green jackfruit"],
+    "category": "produce_fruit",
+    "shelf_life": {
+      "pantry_days": 3,
+      "fridge_days": 7,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "produce_017",
+    "name": "banana flower",
+    "aliases": ["kele ka phool", "banana blossom", "mocha"],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 3,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "produce_018",
+    "name": "suran",
+    "aliases": ["yam", "elephant foot yam", "jimikand", "ol"],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": 14,
+      "fridge_days": 30,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "produce_019",
+    "name": "raw turmeric",
+    "aliases": ["kachchi haldi", "fresh turmeric", "haldi root"],
+    "category": "produce_herb",
+    "shelf_life": {
+      "pantry_days": 7,
+      "fridge_days": 30,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "produce_020",
+    "name": "raw ginger",
+    "aliases": ["adrak", "fresh ginger", "ginger root"],
+    "category": "produce_herb",
+    "shelf_life": {
+      "pantry_days": 7,
+      "fridge_days": 30,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "grains_003",
+    "name": "besan",
+    "aliases": ["gram flour", "chickpea flour", "chana flour"],
+    "category": "grains_flour",
+    "shelf_life": {
+      "pantry_days": 180,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "grains_004",
+    "name": "poha",
+    "aliases": ["flattened rice", "beaten rice", "chivda base", "aval"],
+    "category": "grains_rice",
+    "shelf_life": {
+      "pantry_days": 180,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "grains_005",
+    "name": "sooji",
+    "aliases": ["semolina", "rava", "suji", "cream of wheat"],
+    "category": "grains_flour",
+    "shelf_life": {
+      "pantry_days": 180,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "grains_006",
+    "name": "sabudana",
+    "aliases": ["sago", "tapioca pearls", "saboodana"],
+    "category": "grains_starch",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "grains_007",
+    "name": "maida",
+    "aliases": ["refined flour", "all purpose flour", "white flour"],
+    "category": "grains_flour",
+    "shelf_life": {
+      "pantry_days": 180,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "grains_008",
+    "name": "bajra",
+    "aliases": ["pearl millet", "bajri", "bajra flour"],
+    "category": "grains_millet",
+    "shelf_life": {
+      "pantry_days": 180,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "grains_009",
+    "name": "jowar",
+    "aliases": ["sorghum", "jowar flour", "white millet"],
+    "category": "grains_millet",
+    "shelf_life": {
+      "pantry_days": 180,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "grains_010",
+    "name": "ragi",
+    "aliases": ["finger millet", "nachni", "mandua", "ragi flour"],
+    "category": "grains_millet",
+    "shelf_life": {
+      "pantry_days": 180,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "lentils_003",
+    "name": "chana dal",
+    "aliases": ["split chickpeas", "bengal gram dal", "chane ki dal"],
+    "category": "lentils_dal",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "lentils_004",
+    "name": "rajma",
+    "aliases": ["kidney beans", "red rajma", "jammu rajma"],
+    "category": "lentils_legume",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "lentils_005",
+    "name": "chole",
+    "aliases": ["chickpeas", "kabuli chana", "white chickpeas", "garbanzo beans"],
+    "category": "lentils_legume",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "lentils_006",
+    "name": "urad dal",
+    "aliases": ["black gram dal", "split urad", "dhuli urad", "white urad"],
+    "category": "lentils_dal",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "lentils_007",
+    "name": "masoor dal",
+    "aliases": ["red lentils", "split red lentil", "pink lentil", "lal masoor"],
+    "category": "lentils_dal",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "lentils_008",
+    "name": "whole masoor",
+    "aliases": ["brown lentils", "sabut masoor", "whole red lentil"],
+    "category": "lentils_dal",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "lentils_009",
+    "name": "kala chana",
+    "aliases": ["black chickpeas", "desi chana", "brown chickpeas"],
+    "category": "lentils_legume",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "lentils_010",
+    "name": "moth beans",
+    "aliases": ["matki", "moth dal", "dew beans"],
+    "category": "lentils_legume",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "masala_003",
+    "name": "tamarind paste",
+    "aliases": ["imli paste", "tamarind concentrate", "tamarind pulp"],
+    "category": "condiment_tamarind",
+    "shelf_life": {
+      "pantry_days": 30,
+      "fridge_days": 90,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "masala_004",
+    "name": "coconut chutney",
+    "aliases": ["nariyal chutney", "fresh coconut chutney", "white chutney"],
+    "category": "condiment_chutney",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 2,
+      "freezer_days": null
+    },
+    "high_risk": true,
+    "source": "manual_indian"
+  },
+  {
+    "id": "masala_005",
+    "name": "homemade pickle",
+    "aliases": ["achar", "mango pickle", "aam ka achar", "mixed pickle"],
+    "category": "condiment_pickle",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "masala_006",
+    "name": "packaged pickle opened",
+    "aliases": ["open achar", "store bought pickle opened", "priya pickle", "mothers recipe pickle"],
+    "category": "condiment_pickle",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 180,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "masala_007",
+    "name": "green chutney",
+    "aliases": ["hari chutney", "mint coriander chutney", "pudina chutney", "dhaniya chutney"],
+    "category": "condiment_chutney",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 5,
+      "freezer_days": 30
+    },
+    "high_risk": true,
+    "source": "manual_indian"
+  },
+  {
+    "id": "snacks_002",
+    "name": "packaged biscuits opened",
+    "aliases": ["parle g opened", "marie biscuit opened", "good day opened"],
+    "category": "snacks_biscuit",
+    "shelf_life": {
+      "pantry_days": 7,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "snacks_003",
+    "name": "namkeen",
+    "aliases": ["chakli", "mixture", "bhujia", "sev", "namkeen mixture"],
+    "category": "snacks_dry",
+    "shelf_life": {
+      "pantry_days": 14,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "snacks_004",
+    "name": "instant noodles",
+    "aliases": ["maggi", "top ramen", "yippee noodles", "maggi masala noodles"],
+    "category": "snacks_instant",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "snacks_005",
+    "name": "mathri",
+    "aliases": ["matri", "flaky crackers", "namkeen mathri"],
+    "category": "snacks_dry",
+    "shelf_life": {
+      "pantry_days": 30,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "snacks_006",
+    "name": "murmura",
+    "aliases": ["puffed rice", "kurmura", "mumra", "lahi"],
+    "category": "snacks_dry",
+    "shelf_life": {
+      "pantry_days": 30,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "snacks_007",
+    "name": "roasted chana",
+    "aliases": ["bhuna chana", "chana jor garam", "roasted chickpeas"],
+    "category": "snacks_dry",
+    "shelf_life": {
+      "pantry_days": 60,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "oil_001",
+    "name": "mustard oil",
+    "aliases": ["sarson ka tel", "kachi ghani mustard oil", "mustard cooking oil"],
+    "category": "condiment_oil",
+    "shelf_life": {
+      "pantry_days": 180,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "oil_002",
+    "name": "coconut oil",
+    "aliases": ["nariyal tel", "virgin coconut oil", "copra oil"],
+    "category": "condiment_oil",
+    "shelf_life": {
+      "pantry_days": 730,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "oil_003",
+    "name": "groundnut oil",
+    "aliases": ["peanut oil", "moongphali tel", "fortune groundnut oil"],
+    "category": "condiment_oil",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "cooked_001",
+    "name": "cooked dal",
+    "aliases": ["dal fry", "dal tadka", "cooked lentils", "boiled dal"],
+    "category": "cooked_food",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 3,
+      "freezer_days": 30
+    },
+    "high_risk": true,
+    "source": "manual_indian"
+  },
+  {
+    "id": "cooked_002",
+    "name": "cooked rice",
+    "aliases": ["boiled rice", "steamed rice", "leftover rice", "bhat"],
+    "category": "cooked_food",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 3,
+      "freezer_days": 30
+    },
+    "high_risk": true,
+    "source": "manual_indian"
+  },
+  {
+    "id": "cooked_003",
+    "name": "cooked sabzi",
+    "aliases": ["vegetable curry", "sabji", "cooked vegetables", "bhaji"],
+    "category": "cooked_food",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 3,
+      "freezer_days": null
+    },
+    "high_risk": true,
+    "source": "manual_indian"
+  },
+  {
+    "id": "cooked_004",
+    "name": "roti",
+    "aliases": ["chapati", "phulka", "whole wheat roti", "gehu ki roti"],
+    "category": "cooked_bread",
+    "shelf_life": {
+      "pantry_days": 1,
+      "fridge_days": 3,
+      "freezer_days": 30
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "cooked_005",
+    "name": "sambar",
+    "aliases": ["sambhar", "south indian lentil soup", "dal sambar"],
+    "category": "cooked_food",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 3,
+      "freezer_days": null
+    },
+    "high_risk": true,
+    "source": "manual_indian"
+  },
+  {
+    "id": "cooked_006",
+    "name": "biryani",
+    "aliases": ["chicken biryani", "veg biryani", "mutton biryani", "dum biryani"],
+    "category": "cooked_food",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 2,
+      "freezer_days": 30
+    },
+    "high_risk": true,
+    "source": "manual_indian"
+  },
+  {
+    "id": "spice_001",
+    "name": "turmeric powder",
+    "aliases": ["haldi", "haldi powder", "ground turmeric"],
+    "category": "spice_dry",
+    "shelf_life": {
+      "pantry_days": 1095,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "spice_002",
+    "name": "red chilli powder",
+    "aliases": ["lal mirch powder", "cayenne powder", "kashmiri mirch"],
+    "category": "spice_dry",
+    "shelf_life": {
+      "pantry_days": 1095,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "spice_003",
+    "name": "cumin seeds",
+    "aliases": ["jeera", "whole cumin", "safed jeera"],
+    "category": "spice_whole",
+    "shelf_life": {
+      "pantry_days": 1095,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "spice_004",
+    "name": "coriander powder",
+    "aliases": ["dhania powder", "ground coriander", "sabut dhania powder"],
+    "category": "spice_dry",
+    "shelf_life": {
+      "pantry_days": 1095,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "spice_005",
+    "name": "mustard seeds",
+    "aliases": ["rai", "sarson", "black mustard seeds", "brown mustard seeds"],
+    "category": "spice_whole",
+    "shelf_life": {
+      "pantry_days": 1095,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "fruit_001",
+    "name": "mango",
+    "aliases": [
+      "aam",
+      "alphonso",
+      "kesar",
+      "dashehari",
+      "langra",
+      "totapuri"
+    ],
+    "category": "produce_fruit",
+    "shelf_life": {
+      "pantry_days": 30,
+      "fridge_days": 5,
+      "freezer_days": 365
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "fruit_002",
+    "name": "banana",
+    "aliases": [
+      "kela",
+      "nendran banana",
+      "red banana",
+      "robusta banana"
+    ],
+    "category": "produce_fruit",
+    "shelf_life": {
+      "pantry_days": 3,
+      "fridge_days": 7,
+      "freezer_days": 90
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "fruit_003",
+    "name": "apple",
+    "aliases": [
+      "seb",
+      "shimla apple",
+      "kashmir apple",
+      "royal delicious"
+    ],
+    "category": "produce_fruit",
+    "shelf_life": {
+      "pantry_days": 14,
+      "fridge_days": 30,
+      "freezer_days": 270
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "fruit_004",
+    "name": "orange",
+    "aliases": [
+      "santra",
+      "nagpur orange",
+      "navel orange"
+    ],
+    "category": "produce_fruit",
+    "shelf_life": {
+      "pantry_days": 14,
+      "fridge_days": 21,
+      "freezer_days": 270
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "fruit_005",
+    "name": "mosambi",
+    "aliases": [
+      "sweet lime",
+      "musambi",
+      "sweet lemon"
+    ],
+    "category": "produce_fruit",
+    "shelf_life": {
+      "pantry_days": 7,
+      "fridge_days": 14,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "fruit_006",
+    "name": "guava",
+    "aliases": [
+      "amrood",
+      "peru",
+      "psidium guajava"
+    ],
+    "category": "produce_fruit",
+    "shelf_life": {
+      "pantry_days": 3,
+      "fridge_days": 7,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "fruit_007",
+    "name": "papaya",
+    "aliases": [
+      "papita",
+      "raw papaya",
+      "ripe papaya"
+    ],
+    "category": "produce_fruit",
+    "shelf_life": {
+      "pantry_days": 3,
+      "fridge_days": 7,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "fruit_008",
+    "name": "pomegranate",
+    "aliases": [
+      "anar",
+      "anaar",
+      "granada"
+    ],
+    "category": "produce_fruit",
+    "shelf_life": {
+      "pantry_days": 7,
+      "fridge_days": 30,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "fruit_009",
+    "name": "watermelon",
+    "aliases": [
+      "tarbooz",
+      "tarbuj"
+    ],
+    "category": "produce_fruit",
+    "shelf_life": {
+      "pantry_days": 3,
+      "fridge_days": 10,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "fruit_010",
+    "name": "muskmelon",
+    "aliases": [
+      "kharbooja",
+      "cantaloupe",
+      "kharbuja"
+    ],
+    "category": "produce_fruit",
+    "shelf_life": {
+      "pantry_days": 3,
+      "fridge_days": 7,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "fruit_011",
+    "name": "litchi",
+    "aliases": [
+      "lychee",
+      "lichi",
+      "litchi fruit"
+    ],
+    "category": "produce_fruit",
+    "shelf_life": {
+      "pantry_days": 2,
+      "fridge_days": 7,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "fruit_012",
+    "name": "sapota",
+    "aliases": [
+      "chikoo",
+      "sapodilla",
+      "chiku",
+      "sapodilla plum"
+    ],
+    "category": "produce_fruit",
+    "shelf_life": {
+      "pantry_days": 2,
+      "fridge_days": 5,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "fruit_013",
+    "name": "custard apple",
+    "aliases": [
+      "sitaphal",
+      "sugar apple",
+      "sharifa",
+      "sitafal"
+    ],
+    "category": "produce_fruit",
+    "shelf_life": {
+      "pantry_days": 2,
+      "fridge_days": 4,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "fruit_014",
+    "name": "jamun",
+    "aliases": [
+      "java plum",
+      "black plum",
+      "indian blackberry",
+      "jambul"
+    ],
+    "category": "produce_fruit",
+    "shelf_life": {
+      "pantry_days": 1,
+      "fridge_days": 4,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "fruit_015",
+    "name": "amla",
+    "aliases": [
+      "indian gooseberry",
+      "aonla",
+      "amlaki",
+      "nellikai"
+    ],
+    "category": "produce_fruit",
+    "shelf_life": {
+      "pantry_days": 7,
+      "fridge_days": 14,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "fruit_016",
+    "name": "coconut",
+    "aliases": [
+      "nariyal",
+      "narikela",
+      "tender coconut",
+      "fresh coconut"
+    ],
+    "category": "produce_fruit",
+    "shelf_life": {
+      "pantry_days": 14,
+      "fridge_days": 30,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "fruit_017",
+    "name": "pineapple",
+    "aliases": [
+      "ananas",
+      "ananaas",
+      "pine apple"
+    ],
+    "category": "produce_fruit",
+    "shelf_life": {
+      "pantry_days": 3,
+      "fridge_days": 7,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "fruit_018",
+    "name": "dragon fruit",
+    "aliases": [
+      "pitaya",
+      "pitahaya",
+      "kamalam"
+    ],
+    "category": "produce_fruit",
+    "shelf_life": {
+      "pantry_days": 2,
+      "fridge_days": 10,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "fruit_019",
+    "name": "pear",
+    "aliases": [
+      "nashpati",
+      "babugosa",
+      "naak"
+    ],
+    "category": "produce_fruit",
+    "shelf_life": {
+      "pantry_days": 7,
+      "fridge_days": 14,
+      "freezer_days": 270
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "fruit_020",
+    "name": "grapes",
+    "aliases": [
+      "angoor",
+      "angur",
+      "green grapes",
+      "black grapes",
+      "seedless grapes"
+    ],
+    "category": "produce_fruit",
+    "shelf_life": {
+      "pantry_days": 2,
+      "fridge_days": 7,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "veg_001",
+    "name": "potato",
+    "aliases": [
+      "aloo",
+      "aaloo",
+      "batata"
+    ],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": 30,
+      "fridge_days": 60,
+      "freezer_days": 365
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "veg_002",
+    "name": "onion",
+    "aliases": [
+      "pyaz",
+      "pyaaz",
+      "kanda",
+      "dungri"
+    ],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": 30,
+      "fridge_days": 60,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "veg_003",
+    "name": "tomato",
+    "aliases": [
+      "tamatar",
+      "tomate",
+      "tamata"
+    ],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": 7,
+      "fridge_days": 14,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "veg_004",
+    "name": "carrot",
+    "aliases": [
+      "gajar",
+      "gajjar"
+    ],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": 7,
+      "fridge_days": 14,
+      "freezer_days": 365
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "veg_005",
+    "name": "cabbage",
+    "aliases": [
+      "patta gobhi",
+      "bandh gobhi",
+      "kobi"
+    ],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": 3,
+      "fridge_days": 14,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "veg_006",
+    "name": "cauliflower",
+    "aliases": [
+      "gobhi",
+      "phool gobhi",
+      "fulkobi"
+    ],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": 2,
+      "fridge_days": 7,
+      "freezer_days": 365
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "veg_007",
+    "name": "capsicum",
+    "aliases": [
+      "shimla mirch",
+      "bell pepper",
+      "green pepper",
+      "red pepper"
+    ],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": 3,
+      "fridge_days": 7,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "veg_008",
+    "name": "beans",
+    "aliases": [
+      "french beans",
+      "sem phalli",
+      "barbati",
+      "cluster beans"
+    ],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": 3,
+      "fridge_days": 7,
+      "freezer_days": 365
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "veg_009",
+    "name": "green peas",
+    "aliases": [
+      "matar",
+      "hari matar",
+      "fresh peas",
+      "fresh matar"
+    ],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": 2,
+      "fridge_days": 5,
+      "freezer_days": 365
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "veg_010",
+    "name": "spinach",
+    "aliases": [
+      "palak",
+      "paalak",
+      "saag",
+      "leafy greens spinach"
+    ],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": 1,
+      "fridge_days": 5,
+      "freezer_days": 365
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "veg_011",
+    "name": "beetroot",
+    "aliases": [
+      "chukandar",
+      "beet",
+      "red beet"
+    ],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": 14,
+      "fridge_days": 30,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "veg_012",
+    "name": "radish",
+    "aliases": [
+      "mooli",
+      "muli",
+      "daikon"
+    ],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": 3,
+      "fridge_days": 7,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "veg_013",
+    "name": "brinjal",
+    "aliases": [
+      "baingan",
+      "eggplant",
+      "aubergine",
+      "begun"
+    ],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": 3,
+      "fridge_days": 7,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "veg_014",
+    "name": "okra",
+    "aliases": [
+      "bhindi",
+      "ladies finger",
+      "bhendi",
+      "vendakkai"
+    ],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": 2,
+      "fridge_days": 5,
+      "freezer_days": 365
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "veg_015",
+    "name": "pumpkin",
+    "aliases": [
+      "kaddu",
+      "sitafal",
+      "kadu",
+      "petha kaddu"
+    ],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": 7,
+      "fridge_days": 14,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "veg_016",
+    "name": "sweet potato",
+    "aliases": [
+      "shakarkandi",
+      "shakar kand",
+      "ratalu"
+    ],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": 14,
+      "fridge_days": 21,
+      "freezer_days": 365
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "veg_017",
+    "name": "spring onion",
+    "aliases": [
+      "hara pyaz",
+      "green onion",
+      "scallion",
+      "hari pyaz"
+    ],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": 2,
+      "fridge_days": 7,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "veg_018",
+    "name": "lemon",
+    "aliases": [
+      "nimbu",
+      "neembu",
+      "kagzi nimbu",
+      "lime"
+    ],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": 7,
+      "fridge_days": 21,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "veg_019",
+    "name": "garlic",
+    "aliases": [
+      "lahsun",
+      "lahasun",
+      "lasan"
+    ],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": 30,
+      "fridge_days": 60,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "veg_020",
+    "name": "mushroom",
+    "aliases": [
+      "khumb",
+      "dhingri",
+      "button mushroom",
+      "oyster mushroom"
+    ],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": 1,
+      "fridge_days": 5,
+      "freezer_days": 365
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "veg_021",
+    "name": "cucumber",
+    "aliases": [
+      "kheera",
+      "kakdi",
+      "kheera kakdi",
+      "salad cucumber"
+    ],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": 3,
+      "fridge_days": 7,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "veg_022",
+    "name": "mint leaves",
+    "aliases": [
+      "pudina",
+      "peppermint leaves",
+      "fresh mint"
+    ],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": 1,
+      "fridge_days": 5,
+      "freezer_days": 90
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "veg_023",
+    "name": "fenugreek leaves",
+    "aliases": [
+      "methi",
+      "methi leaves",
+      "methi saag",
+      "fresh methi"
+    ],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": 1,
+      "fridge_days": 4,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "veg_024",
+    "name": "snake gourd",
+    "aliases": [
+      "chichinda",
+      "padwal",
+      "potlakaya",
+      "chichinde"
+    ],
+    "category": "produce_vegetable",
+    "shelf_life": {
+      "pantry_days": 2,
+      "fridge_days": 5,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "legume_006",
+    "name": "whole green moong",
+    "aliases": [
+      "sabut moong",
+      "green gram whole",
+      "mung beans",
+      "hara moong"
+    ],
+    "category": "legumes_lentils",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "legume_007",
+    "name": "soybean",
+    "aliases": [
+      "soya bean",
+      "soy beans",
+      "bhatmas"
+    ],
+    "category": "legumes_lentils",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "legume_008",
+    "name": "lobia",
+    "aliases": [
+      "black-eyed peas",
+      "chawli",
+      "rongi",
+      "lobhia"
+    ],
+    "category": "legumes_lentils",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "legume_009",
+    "name": "horse gram",
+    "aliases": [
+      "kulthi dal",
+      "kulthi",
+      "kulith",
+      "hurali"
+    ],
+    "category": "legumes_lentils",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "legume_010",
+    "name": "white peas",
+    "aliases": [
+      "safed matar",
+      "dried white peas",
+      "matar dal"
+    ],
+    "category": "legumes_lentils",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "legume_011",
+    "name": "green peas dry",
+    "aliases": [
+      "dried green peas",
+      "sukha matar",
+      "dry matar"
+    ],
+    "category": "legumes_lentils",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "legume_012",
+    "name": "double beans",
+    "aliases": [
+      "val dal",
+      "papdi dal",
+      "broad beans dry",
+      "sem dry"
+    ],
+    "category": "legumes_lentils",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "legume_013",
+    "name": "field beans",
+    "aliases": [
+      "vaal",
+      "hyacinth beans dry",
+      "sem"
+    ],
+    "category": "legumes_lentils",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "legume_014",
+    "name": "sprouted moong",
+    "aliases": [
+      "moong sprouts",
+      "moong ankurit",
+      "green gram sprouts"
+    ],
+    "category": "legumes_lentils",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 2,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "grain_013",
+    "name": "broken wheat",
+    "aliases": [
+      "dalia",
+      "daliya",
+      "lapsi",
+      "cracked wheat",
+      "fada"
+    ],
+    "category": "grains_flour",
+    "shelf_life": {
+      "pantry_days": 180,
+      "fridge_days": 365,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "grain_014",
+    "name": "barnyard millet",
+    "aliases": [
+      "sanwa",
+      "jhangora",
+      "samvat rice",
+      "bhagar"
+    ],
+    "category": "grains_flour",
+    "shelf_life": {
+      "pantry_days": 180,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "grain_015",
+    "name": "foxtail millet",
+    "aliases": [
+      "kangni",
+      "kakum",
+      "korra",
+      "thinai"
+    ],
+    "category": "grains_flour",
+    "shelf_life": {
+      "pantry_days": 180,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "grain_016",
+    "name": "kodo millet",
+    "aliases": [
+      "kodon",
+      "varagu",
+      "kodo"
+    ],
+    "category": "grains_flour",
+    "shelf_life": {
+      "pantry_days": 180,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "grain_017",
+    "name": "little millet",
+    "aliases": [
+      "kutki",
+      "samai",
+      "sawa"
+    ],
+    "category": "grains_flour",
+    "shelf_life": {
+      "pantry_days": 180,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "grain_018",
+    "name": "proso millet",
+    "aliases": [
+      "chena",
+      "barri",
+      "panivaragu"
+    ],
+    "category": "grains_flour",
+    "shelf_life": {
+      "pantry_days": 180,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "grain_019",
+    "name": "quinoa",
+    "aliases": [
+      "quinwa",
+      "keen-wah"
+    ],
+    "category": "grains_flour",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "grain_020",
+    "name": "oats",
+    "aliases": [
+      "quaker oats",
+      "rolled oats",
+      "instant oats",
+      "jaie"
+    ],
+    "category": "grains_flour",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "grain_021",
+    "name": "corn flour",
+    "aliases": [
+      "maize flour",
+      "makka atta plain",
+      "cornstarch",
+      "cornflour"
+    ],
+    "category": "grains_flour",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "grain_022",
+    "name": "makki atta",
+    "aliases": [
+      "maize flour coarse",
+      "corn flour coarse",
+      "makkai ka atta",
+      "polenta flour"
+    ],
+    "category": "grains_flour",
+    "shelf_life": {
+      "pantry_days": 180,
+      "fridge_days": 365,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "spice_011",
+    "name": "bay leaf",
+    "aliases": [
+      "tej patta",
+      "tej pattar",
+      "indian bay leaf"
+    ],
+    "category": "spice_whole",
+    "shelf_life": {
+      "pantry_days": 1095,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "spice_012",
+    "name": "fenugreek seeds",
+    "aliases": [
+      "methi dana",
+      "methi seeds",
+      "methre"
+    ],
+    "category": "spice_whole",
+    "shelf_life": {
+      "pantry_days": 1095,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "spice_013",
+    "name": "fennel seeds",
+    "aliases": [
+      "saunf",
+      "variyali",
+      "sombu",
+      "anise seeds"
+    ],
+    "category": "spice_whole",
+    "shelf_life": {
+      "pantry_days": 1095,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "spice_014",
+    "name": "ajwain",
+    "aliases": [
+      "carom seeds",
+      "bishop's weed",
+      "ajmo",
+      "omam"
+    ],
+    "category": "spice_whole",
+    "shelf_life": {
+      "pantry_days": 1095,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "spice_015",
+    "name": "nigella seeds",
+    "aliases": [
+      "kalonji",
+      "black onion seeds",
+      "black cumin seeds",
+      "mangrail"
+    ],
+    "category": "spice_whole",
+    "shelf_life": {
+      "pantry_days": 1095,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "spice_016",
+    "name": "dry ginger powder",
+    "aliases": [
+      "soonth",
+      "sunth",
+      "sukku",
+      "dried ginger powder"
+    ],
+    "category": "spice_dry",
+    "shelf_life": {
+      "pantry_days": 730,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "spice_017",
+    "name": "kitchen king masala",
+    "aliases": [
+      "kitchen king",
+      "kitchen king powder",
+      "mdh kitchen king"
+    ],
+    "category": "spice_blend",
+    "shelf_life": {
+      "pantry_days": 730,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "spice_018",
+    "name": "sambar powder",
+    "aliases": [
+      "sambar masala",
+      "sambar podi",
+      "idli sambar powder"
+    ],
+    "category": "spice_blend",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "spice_019",
+    "name": "chaat masala",
+    "aliases": [
+      "chaat masala powder",
+      "chat masala"
+    ],
+    "category": "spice_blend",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "spice_020",
+    "name": "pav bhaji masala",
+    "aliases": [
+      "pav bhaji masala powder",
+      "everest pav bhaji"
+    ],
+    "category": "spice_blend",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "condiment_004",
+    "name": "green chilli sauce",
+    "aliases": [
+      "green chili sauce",
+      "hari mirch sauce",
+      "chilli sauce green"
+    ],
+    "category": "condiment_sauce",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": 180,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "condiment_005",
+    "name": "mayonnaise",
+    "aliases": [
+      "mayo",
+      "eggless mayo",
+      "vegenaise",
+      "hellmanns mayo"
+    ],
+    "category": "condiment_sauce",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": 90,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "condiment_006",
+    "name": "peanut chutney powder",
+    "aliases": [
+      "groundnut chutney powder",
+      "shengdana chutney",
+      "peanut chutney dry"
+    ],
+    "category": "condiment_sauce",
+    "shelf_life": {
+      "pantry_days": 90,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "condiment_007",
+    "name": "gunpowder",
+    "aliases": [
+      "molagapodi",
+      "idli podi",
+      "milaga podi",
+      "chutney podi"
+    ],
+    "category": "condiment_sauce",
+    "shelf_life": {
+      "pantry_days": 90,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "condiment_008",
+    "name": "tamarind block",
+    "aliases": [
+      "imli block",
+      "imli slab",
+      "tamarind cake",
+      "tamarind slab"
+    ],
+    "category": "condiment_sauce",
+    "shelf_life": {
+      "pantry_days": 180,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "snack_001",
+    "name": "khakhra",
+    "aliases": [
+      "khakra",
+      "gujarati khakhra",
+      "wheat khakhra"
+    ],
+    "category": "snacks_dry",
+    "shelf_life": {
+      "pantry_days": 30,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "snack_002",
+    "name": "thepla",
+    "aliases": [
+      "methi thepla",
+      "gujarati thepla"
+    ],
+    "category": "snacks_dry",
+    "shelf_life": {
+      "pantry_days": 7,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "snack_003",
+    "name": "banana chips",
+    "aliases": [
+      "kela chips",
+      "nendran chips",
+      "plantain chips"
+    ],
+    "category": "snacks_dry",
+    "shelf_life": {
+      "pantry_days": 30,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "snack_004",
+    "name": "potato chips",
+    "aliases": [
+      "aloo chips",
+      "wafers",
+      "lays",
+      "kurkure chips"
+    ],
+    "category": "snacks_dry",
+    "shelf_life": {
+      "pantry_days": 30,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "snack_005",
+    "name": "aloo bhujia",
+    "aliases": [
+      "bhujia sev",
+      "aloo sev",
+      "haldiram bhujia"
+    ],
+    "category": "snacks_dry",
+    "shelf_life": {
+      "pantry_days": 90,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "snack_006",
+    "name": "murukku",
+    "aliases": [
+      "chakli",
+      "murukku snack",
+      "chakkuli"
+    ],
+    "category": "snacks_dry",
+    "shelf_life": {
+      "pantry_days": 30,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "snack_007",
+    "name": "ribbon pakoda",
+    "aliases": [
+      "ribbon murukku",
+      "ola pakoda",
+      "nada pakoda"
+    ],
+    "category": "snacks_dry",
+    "shelf_life": {
+      "pantry_days": 30,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "snack_008",
+    "name": "shakkarpara",
+    "aliases": [
+      "shakkar para",
+      "sweet mathri",
+      "shankar pale"
+    ],
+    "category": "snacks_dry",
+    "shelf_life": {
+      "pantry_days": 14,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "snack_009",
+    "name": "namak para",
+    "aliases": [
+      "namkeen mathri",
+      "namak pare",
+      "diamond cuts"
+    ],
+    "category": "snacks_dry",
+    "shelf_life": {
+      "pantry_days": 14,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "snack_010",
+    "name": "peanut chikki",
+    "aliases": [
+      "groundnut chikki",
+      "moongphali chikki",
+      "peanut brittle"
+    ],
+    "category": "snacks_dry",
+    "shelf_life": {
+      "pantry_days": 90,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "bakery_001",
+    "name": "white bread",
+    "aliases": [
+      "sandwich bread",
+      "britannia bread",
+      "modern bread",
+      "plain bread"
+    ],
+    "category": "bakery_bread",
+    "shelf_life": {
+      "pantry_days": 5,
+      "fridge_days": null,
+      "freezer_days": 90
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "bakery_002",
+    "name": "brown bread",
+    "aliases": [
+      "whole wheat bread",
+      "atta bread",
+      "brown loaf"
+    ],
+    "category": "bakery_bread",
+    "shelf_life": {
+      "pantry_days": 5,
+      "fridge_days": null,
+      "freezer_days": 90
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "bakery_003",
+    "name": "multigrain bread",
+    "aliases": [
+      "multigrain loaf",
+      "harvest bread",
+      "multi grain bread"
+    ],
+    "category": "bakery_bread",
+    "shelf_life": {
+      "pantry_days": 5,
+      "fridge_days": null,
+      "freezer_days": 90
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "bakery_004",
+    "name": "pav",
+    "aliases": [
+      "ladi pav",
+      "dinner rolls",
+      "bread pav",
+      "mumbai pav"
+    ],
+    "category": "bakery_bread",
+    "shelf_life": {
+      "pantry_days": 2,
+      "fridge_days": null,
+      "freezer_days": 90
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "bakery_005",
+    "name": "burger buns",
+    "aliases": [
+      "bun",
+      "soft buns",
+      "sesame buns"
+    ],
+    "category": "bakery_bread",
+    "shelf_life": {
+      "pantry_days": 3,
+      "fridge_days": null,
+      "freezer_days": 90
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "bakery_006",
+    "name": "khari biscuit",
+    "aliases": [
+      "khari",
+      "puff pastry biscuit",
+      "salted khari"
+    ],
+    "category": "bakery_bread",
+    "shelf_life": {
+      "pantry_days": 14,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "bakery_007",
+    "name": "rusk",
+    "aliases": [
+      "toast rusk",
+      "bread rusk",
+      "double roti rusk",
+      "britannia rusk"
+    ],
+    "category": "bakery_bread",
+    "shelf_life": {
+      "pantry_days": 90,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "bakery_008",
+    "name": "cake rusk",
+    "aliases": [
+      "sweet rusk",
+      "cake toast",
+      "meetha rusk"
+    ],
+    "category": "bakery_bread",
+    "shelf_life": {
+      "pantry_days": 90,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "bakery_009",
+    "name": "naan",
+    "aliases": [
+      "tandoori naan",
+      "garlic naan",
+      "butter naan"
+    ],
+    "category": "bakery_bread",
+    "shelf_life": {
+      "pantry_days": 1,
+      "fridge_days": 3,
+      "freezer_days": 90
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "bakery_010",
+    "name": "kulcha",
+    "aliases": [
+      "amritsari kulcha",
+      "stuffed kulcha",
+      "plain kulcha"
+    ],
+    "category": "bakery_bread",
+    "shelf_life": {
+      "pantry_days": 1,
+      "fridge_days": 3,
+      "freezer_days": 90
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "rte_001",
+    "name": "frozen paratha",
+    "aliases": [
+      "frozen lachha paratha",
+      "frozen stuffed paratha",
+      "paratha frozen"
+    ],
+    "category": "ready_to_eat",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": null,
+      "freezer_days": 90
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "rte_002",
+    "name": "frozen samosa",
+    "aliases": [
+      "frozen mini samosa",
+      "samosa frozen"
+    ],
+    "category": "ready_to_eat",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": null,
+      "freezer_days": 90
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "rte_003",
+    "name": "frozen green peas",
+    "aliases": [
+      "frozen matar",
+      "frozen peas",
+      "iqf peas"
+    ],
+    "category": "ready_to_eat",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": null,
+      "freezer_days": 365
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "rte_004",
+    "name": "frozen corn",
+    "aliases": [
+      "frozen sweet corn",
+      "frozen maize",
+      "frozen corn kernels"
+    ],
+    "category": "ready_to_eat",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": null,
+      "freezer_days": 365
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "rte_005",
+    "name": "ready upma mix",
+    "aliases": [
+      "instant upma",
+      "upma mix",
+      "mtr upma"
+    ],
+    "category": "ready_to_eat",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "rte_006",
+    "name": "ready poha mix",
+    "aliases": [
+      "instant poha",
+      "poha mix",
+      "mtr poha"
+    ],
+    "category": "ready_to_eat",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "rte_007",
+    "name": "ready idli mix",
+    "aliases": [
+      "instant idli mix",
+      "idli batter mix",
+      "mtr idli mix"
+    ],
+    "category": "ready_to_eat",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "rte_008",
+    "name": "ready dhokla mix",
+    "aliases": [
+      "instant dhokla",
+      "dhokla mix",
+      "gits dhokla"
+    ],
+    "category": "ready_to_eat",
+    "shelf_life": {
+      "pantry_days": 365,
+      "fridge_days": null,
+      "freezer_days": null
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "rte_009",
+    "name": "frozen paneer tikka",
+    "aliases": [
+      "paneer tikka frozen",
+      "frozen tikka"
+    ],
+    "category": "ready_to_eat",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": null,
+      "freezer_days": 90
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  },
+  {
+    "id": "rte_010",
+    "name": "frozen veg nuggets",
+    "aliases": [
+      "veg nuggets frozen",
+      "frozen nuggets",
+      "mccain nuggets"
+    ],
+    "category": "ready_to_eat",
+    "shelf_life": {
+      "pantry_days": null,
+      "fridge_days": null,
+      "freezer_days": 90
+    },
+    "high_risk": false,
+    "source": "manual_indian"
+  }
+]

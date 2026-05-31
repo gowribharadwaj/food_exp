@@ -1,0 +1,35 @@
+{
+  "off_to_internal": {
+    "Milk and dairy products": "dairy_milk",
+    "Milks": "dairy_milk",
+    "Cheeses": "dairy_cheese",
+    "Yogurts": "dairy_curd",
+    "Creams": "dairy_cream",
+    "Butters": "dairy_butter",
+    "Fresh vegetables": "produce_vegetable",
+    "Fresh fruits": "produce_fruit",
+    "Breads and buns": "grains_bread",
+    "Eggs": "dairy_eggs",
+    "Cereals and their products": "grains_cereal",
+    "Biscuits and cakes": "snacks_biscuit",
+    "Beverages": "beverages",
+    "Condiments": "condiment_sauce",
+    "Oils and fats": "condiment_oil",
+    "Legumes": "lentils_legume"
+  },
+  "internal_to_foodkeeper": {
+    "dairy_milk": "Milk (whole)",
+    "dairy_cheese": "Cheese (hard)",
+    "dairy_curd": "Yogurt",
+    "dairy_butter": "Butter",
+    "dairy_eggs": "Eggs (in shell)",
+    "produce_vegetable": "Vegetables (leafy greens)",
+    "produce_fruit": "Fruits (citrus)",
+    "grains_bread": "Bread (commercial)",
+    "grains_cereal": "Cereal (dry)",
+    "snacks_biscuit": "Crackers",
+    "condiment_sauce": "Condiments",
+    "condiment_oil": "Oils",
+    "lentils_legume": "Beans (dried)"
+  }
+}
